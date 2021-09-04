@@ -12,11 +12,13 @@ tener "ñ", tildes, caracteres especiales, ni guión medio. A excepción del len
 
 ## Ejercicio ejemplo 1
 
-``
+
+```
 Sub ejemplo()
     MsgBox "Hola mundo"
 End Sub
-``
+```
+
 
 
 ## Ejercicio ejemplo 2
@@ -32,6 +34,7 @@ End Sub
 
 _A continuación se muestra actividad que consiste en realizar un programa que muestra tres mensajes al usuario en visual basic, y su respectivo diagrama de flujo_
 
+
 **Diagrama de flujo**
 
 <img src="img/diagramadeflujosugey.jpg" width="250">
@@ -39,13 +42,13 @@ _A continuación se muestra actividad que consiste en realizar un programa que m
 
 **Programa en visual basic**
 
-  ``
+  ```
   Sub programa()
     MsgBox "Hola, un saludo cordial para ti"
     MsgBox "Mi nombre es Sugey"
     MsgBox "Déjame un mensaje al correo sugey.berdugo@misena.edu.co"
-    End Sub
-  ``
+  End Sub
+  ```
 
 
 
