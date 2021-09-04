@@ -37,7 +37,7 @@ _A continuación se muestra actividad que consiste en realizar un programa que m
 
 **Diagrama de flujo**
 
-<img src="img/diagramadeflujosugey.jpg" width="250">
+<img src="img/diagramadeflujosugey.jpg" width="300">
 
 
 **Programa en visual basic**
