@@ -41,7 +41,7 @@ End Sub
 
 #### Diagrama de flujo
 
-<img src="img/promediodiagramadeflujo.JPG" width=300>
+<img src="img/promediodiagramadeflujo.JPG" width=500>
 
 
 
