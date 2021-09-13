@@ -43,8 +43,6 @@ End Sub
 
 <img src="img/promediodiagramadeflujo.jpg" width=300>
 
-#### 
-
 
 
 
