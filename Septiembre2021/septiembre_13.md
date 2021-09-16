@@ -71,6 +71,7 @@ Sub calculanota()
     Else
         MsgBox "El estudiante aprobó con " & k & " como nota final "
     End If
+End Sub
 ```
 
 ### Diagrama de flujo
