@@ -59,13 +59,15 @@ Sub info()
 End Sub
 ```
 
+#### Función
+
 ```
 Function misnotas(s, u, g, b, c)
     calcula = (s + u + g + b + c) / 5
     If (calcula < 7) Then
-        MsgBox "Reprobó con " & calcula & " como nota final"
+        misnotas = " Reprobó con " & calcula & " como nota final"
     Else
-        MsgBox "Aprobó con " & calcula & " como nota final"
+        misnotas = " Aprobó con " & calcula & " como nota final"
     End If
 End Function
 ```
