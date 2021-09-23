@@ -40,7 +40,7 @@ End Function
 
 _Crear un formulario y crear función llamada =misnotas debe mostrar la palabra ganó o perdio. Ganando con promedio igual o mayor a 7._
 
-<img src="img/formulariofoto.JPG" width=450>
+<img src="img/formulariofoto.JPG" width=400>
 
 
 ```
