@@ -76,5 +76,5 @@ End Sub
 
 ### Diagrama de flujo
 
-<img src="img/Diagrama 3.JPG" width="500">
+<img src="imgsept/Diagrama 3.JPG" width="500">
 
