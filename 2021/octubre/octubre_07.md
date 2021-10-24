@@ -4,7 +4,15 @@
 
 ###  For
 
-En esta clase se revisó la actividad que consistía en que consiste en poner nombre a partir de la d, quitar y poner 10 veces a la derecha y 10 abajo. Además de esto, el instructor mostró como utilizar bucles For en DART. 
+En esta clase  Se realiza diagrama de flujo para ciclo FOR. Se utiliza la figura "Preparation"  
+
+#### Diagrama de Flujo
+
+
+<img src="imgoct/fordiagram1.JPG" width="300">
+
+
+Se revisó la actividad que consistía en poner nombre a partir de la d, quitar y poner 10 veces a la derecha y 10 abajo. Además de esto, el instructor mostró como utilizar bucles For en DART.  
 
 
 #### Ejemplo FOR en DART

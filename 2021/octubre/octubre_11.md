@@ -1,13 +1,48 @@
-# Clase Octubre 07 del 2021
+# Clase Octubre 11 del 2021
 
 ## Ciclos 
 
 ###  For
 
-Se realiza diagrama de flujo para ciclo FOR. Se utiliza la figura "Preparation"  
+Se realiza revisión de programa que corre palabra diagonalmente. Se da una explicación de una opción presentada por aprendices.
 
-#### Diagrama de Flujo
+#### Código
 
-
-<img src="imgoct/fordiagram1.JPG" width="300">
+```
+Sub diag()
+        b = "Hola"
+     
+        For u = 1 To 10
+        
+            ms.Cells(u, u) = b
+            ms.Cells(u, u) = ""
+        
+            For cy = 1 To 20000000
+            Next cy
+            
+         Next u
+    
+        For x = 9 To 1 Step -1
+            ms.Cells(x + 1, 10) = ""
+            ms.Cells(x, 10) = b
+         
+            For j = 1 To 10000000
+            Next j
+             
+        Next x
+    
+        For t = 10 To 1 Step -1
+         
+            ms.Cells(1, t + 1) = ""
+            ms.Cells(1, t) = b
+        
+            For thend = 1 To 10000000
+            Next thend
+                     
+        Next t
+        ms.Cells(1, 1) = ""
+End Sub
+````
+           
+En la próxima sesión se presentarán las opciones de otros aprendices faltantes. Y el nuevo tema acerca de "While". 
 
