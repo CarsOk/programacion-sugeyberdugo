@@ -1,4 +1,4 @@
-# Clase Octubre 04 del 2021
+# Clase Octubre 07 del 2021
 
 ## Ciclos 
 
