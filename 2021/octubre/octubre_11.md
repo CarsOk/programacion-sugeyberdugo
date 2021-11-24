@@ -4,7 +4,7 @@
 
 ###  For
 
-Se realiza revisión de programa que corre palabra diagonalmente. Se da una explicación de una opción presentada por aprendices.
+Se realiza revisión de programa que corre palabra diagonalmente. Se da la explicación de ambos códigos presentados por aprendices.
 
 #### Código
 
