@@ -31,7 +31,7 @@ void main(){
         print('La respuesta es $mul');
     }else{
         print('La opción $respuestaUsuario no es la correcta');
-        print("Seleccione opciones 1, 2, 3, o 4"0);
+        print("Seleccione opciones 1, 2, 3, o 4");
         }
     }
 }
